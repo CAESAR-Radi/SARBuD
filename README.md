@@ -14,3 +14,8 @@ More image patches will be added later.
 we start LFS service for it and you need to install lfs for your computer and download the dataset 
 by command like "git lfs clone https://github.com/CAESAR-Radi/SARBuD.git". 
 Maybe sometimes, bandwidth of our lfs runs out in current month and you can't download it, then it will reset in next month.**
+
+To use this dataset, please cite the following papers:
+ 
+1. Wu F, Wang C, Zhang H, Li J, Li L, Chen W, et al. Built-up area mapping in China from GF-3 SAR imagery based on the framework of deep learning. Remote Sensing of Environment. 2021, 262:112515. 
+2. Wu F，Zhang H，Wang C，Li L，Li J J，Chen W R and Zhang B. 2022. SARBuD1.0： A SAR Building Dataset Based on GF-3 FSII Imageries for Built-up Area Extraction with Deep Learning Method. National Remote Sensing Bulletin. 2022. 26（4）：620-631.
