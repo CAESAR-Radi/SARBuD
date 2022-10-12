@@ -20,6 +20,4 @@ To use this dataset, please cite the following papers:
 1. Wu F, Wang C, Zhang H, Li J, Li L, Chen W, et al. Built-up area mapping in China from GF-3 SAR imagery based on the framework of deep learning. Remote Sensing of Environment. 2021, 262:112515. 
 2. Wu F，Zhang H，Wang C，Li L，Li J J，Chen W R and Zhang B. 2022. SARBuD1.0： A SAR Building Dataset Based on GF-3 FSII Imageries for Built-up Area Extraction with Deep Learning Method. National Remote Sensing Bulletin. 2022. 26（4）：620-631.
 
-Please contact us if you have any questions
-Prof. Wu
-wufan@aircas.ac.cn
+Please contact us if you have any questions:wufan@aircas.ac.cn(Prof.Wu)
