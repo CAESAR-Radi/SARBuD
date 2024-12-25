@@ -10,10 +10,10 @@ The image patches are derived from 10m resolution SAR image, sizes of one patch 
 There are about 25000 SAR image patches of building area and corresponding 25000 labeled binary images in current version. 
 More image patches will be added later. 
 
-**Besides, our dataset is so large that you cannot download it direcly, 
-we start LFS service for it and you need to install lfs for your computer and download the dataset 
-by command like "git lfs clone https://github.com/CAESAR-Radi/SARBuD.git". 
-Maybe sometimes, bandwidth of our lfs runs out in current month and you can't download it, then it will reset in next month.**
+**Besides, our dataset is so large that you cannot download it direcly.
+You can download it in two ways.<br>
+You can download the dataset and checkpoint weight from [Google Drive](https://drive.google.com/drive/folders/14fp9o_QE58gOO0hQ8J5n65CVFGSN0c6i?usp=drive_link)<br>
+You can download the dataset and checkpoint weight from [Baidu Netdisk](https://pan.baidu.com/s/1ESSY536K3hY37ub9zyBXGw?pwd=sta5).**
 
 To use this dataset, please cite the following papers:
  
